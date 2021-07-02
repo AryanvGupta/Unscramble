@@ -25,6 +25,7 @@ import androidx.fragment.app.viewModels
 import com.example.android.unscramble.R
 import com.example.android.unscramble.databinding.GameFragmentBinding
 
+
 /**
  * Fragment where the game is played, contains the game logic.
  */
